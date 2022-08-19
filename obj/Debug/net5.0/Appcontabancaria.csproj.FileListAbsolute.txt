@@ -1,0 +1,80 @@
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.exe
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.deps.json
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.json
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\refint\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.genruntimeconfig.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\C#\Appcontabancaria\obj\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.AssemblyReference.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfoInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfo.cs
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.CoreCompileInputs.cache
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.exe
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.deps.json
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.json
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.dev.json
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\emanu\OneDrive\Documentos\cursos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.genruntimeconfig.cache
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.exe
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.deps.json
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.json
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.dev.json
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.csproj.AssemblyReference.cache
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.AssemblyInfoInputs.cache
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.AssemblyInfo.cs
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.csproj.CoreCompileInputs.cache
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Área de Trabalho\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.genruntimeconfig.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.exe
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.deps.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.dev.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\bin\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.csproj.AssemblyReference.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.AssemblyInfoInputs.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.AssemblyInfo.cs
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.csproj.CoreCompileInputs.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria-master\obj\Debug\net5.0\Appcontabancaria.genruntimeconfig.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.AssemblyReference.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfoInputs.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.AssemblyInfo.cs
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.csproj.CoreCompileInputs.cache
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.exe
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.deps.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.runtimeconfig.dev.json
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\ref\Appcontabancaria.dll
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\bin\Debug\net5.0\Appcontabancaria.pdb
+C:\Users\ah-b1\OneDrive\Documentos\Appcontabancaria\obj\Debug\net5.0\Appcontabancaria.genruntimeconfig.cache
