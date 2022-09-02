@@ -1,6 +1,6 @@
-namespace Appcontabancaria.entities
+namespace AppContaBancaria.Entities
 {
-    public enum  enum_tipoconta
+    public enum enum_tipoconta
     {
         ContaCorrente,
         ContaPoupanca,
